@@ -3,8 +3,8 @@ import { ExternalLink, Github } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
-      title: "SkillChain",
-      description: "Decentralized verified portfolio platform using Ethereum & Homomorphic Encryption for secure credential verification.",
+      title: "SecureVault",
+      description: "Decentralized platform using Ethereum & Homomorphic Encryption for secure the sensitive information.",
       techStack: ["Blockchain", "Ethereum", "Homomorphic Encryption", "React", "Node.js"],
       githubLink: "#",
       liveLink: null,
@@ -19,17 +19,17 @@ const Projects = () => {
       status: "Completed"
     },
     {
-      title: "Electronic Smart Blind Stick",
-      description: "IoT project with obstacle detection, buzzer alerts, LED indicators, and LCD display for enhanced navigation assistance.",
-      techStack: ["IoT", "Arduino", "Sensors", "LCD", "Embedded Systems"],
-      githubLink: "#",
-      liveLink: null,
-      status: "Completed"
-    },
-    {
       title: "Resume Analyzer",
       description: "Upload resume PDF and get AI-driven suggestions for improvement. Built with React frontend and Flask backend.",
       techStack: ["React", "Flask", "Python", "AI/ML", "PDF Processing"],
+      githubLink: "#",
+      liveLink: null,
+      status: "Coming Soon"
+    },
+    {
+      title: "NagarNetra",
+      description: "App which Report local problems and track resolutions. Built with Flutter frontend and Node.js backend.”",
+      techStack: ["Flutter", "Node.js", "PosgreSQL", "Etherem"],
       githubLink: "#",
       liveLink: null,
       status: "Coming Soon"

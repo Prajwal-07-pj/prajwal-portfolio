@@ -4,7 +4,7 @@ const About = () => {
   const highlights = [
     {
       icon: <GraduationCap className="w-6 h-6" />,
-      title: "Diploma in Computer Engineering, 2nd Year",
+      title: "Diploma in Computer Engineering, 3rd Year",
       description: "Building strong foundations in computer science and engineering principles"
     },
     {

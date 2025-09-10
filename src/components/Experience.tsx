@@ -9,16 +9,10 @@ const Experience = () => {
       highlights: ["Project presentations", "Technical documentation", "Peer collaboration"]
     },
     {
-      icon: <Users className="w-6 h-6" />,
-      title: "Fantasy Cricket Simulations",
-      description: "Developed creative hobby projects involving fantasy cricket simulations, demonstrating problem-solving skills and programming logic.",
-      highlights: ["Algorithm design", "Data analysis", "Creative problem solving"]
-    },
-    {
       icon: <Award className="w-6 h-6" />,
       title: "Notable Coursework",
       description: "Comprehensive study in core computer science subjects with hands-on practical experience.",
-      highlights: ["Data Mining", "Operating Systems", "Networking", "Software Engineering"]
+      highlights: ["Data Mining", "Operating Systems", "Networking", "Cyber Security"]
     }
   ];
 

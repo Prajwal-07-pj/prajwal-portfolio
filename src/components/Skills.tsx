@@ -10,7 +10,7 @@ const Skills = () => {
     {
       icon: <Globe className="w-6 h-6" />,
       title: "Web Development",
-      skills: ["HTML", "CSS", "React", "Flask", "Node.js", "Express.js"]
+      skills: ["HTML", "CSS", "React", "Node.js", "Express.js"]
     },
     {
       icon: <Database className="w-6 h-6" />,
@@ -20,7 +20,7 @@ const Skills = () => {
     {
       icon: <Wrench className="w-6 h-6" />,
       title: "Tools & Others",
-      skills: ["Git", "GitHub", "VS Code", "Data Structures & Algorithms", "IoT Basics", "Cloud & Cybersecurity"]
+      skills: ["Git", "GitHub", "VS Code", "Data Structures & Algorithms", "Cloud & Cybersecurity"]
     }
   ];
 
