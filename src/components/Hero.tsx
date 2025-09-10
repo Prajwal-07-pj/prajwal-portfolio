@@ -5,7 +5,7 @@ import profileImage from '@/assets/profile-photo.png';
 const Hero = () => {
     const handleDownload = () => {
     // If your PDF is in the "public" folder
-    const pdfUrl = "./src/assets/Prajwal_Resume.pdf"; 
+    const pdfUrl = "/Prajwal_Resume.pdf"; 
     const link = document.createElement("a");
     link.href = pdfUrl;
     link.download = "Prajwal_Resume.pdf"; // file name after download
