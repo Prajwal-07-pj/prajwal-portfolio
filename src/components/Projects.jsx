@@ -5,7 +5,7 @@ const Projects = () => {
             title: "SecureVault",
             description: "Decentralized platform using Ethereum & Homomorphic Encryption for secure the sensitive information.",
             techStack: ["Blockchain", "Ethereum", "Homomorphic Encryption", "React", "Node.js"],
-            githubLink: "#",
+            githubLink: "https://github.com/Prajwal-07-pj/securevault",
             liveLink: null,
             status: "Completed"
         },
@@ -13,7 +13,7 @@ const Projects = () => {
           title: "Internet Time Machine",
           description: "React project that recreates historical web experiences with a timeline-based browsing concept.",
           techStack: ["React", "JavaScript", "CSS", "API Integration"],
-          githubLink: "#",
+          githubLink: "https://github.com/Prajwal-07-pj/Internet_TimeMachine",
           liveLink: null,
           status: "Completed"
         },
@@ -21,7 +21,7 @@ const Projects = () => {
           title: "Portfolio",
           description: "Personal portfolio built with React to showcase skills, projects, and contact information.",
           techStack: ["React", "JavaScript", "CSS", "Vite"],
-          githubLink: "#",
+          githubLink: "https://github.com/Prajwal-07-pj/prajwal-portfolio",
           liveLink: null,
           status: "Completed"
         },
@@ -29,7 +29,7 @@ const Projects = () => {
           title: "Amazon Clone",
           description: "Frontend clone of Amazon built using HTML, CSS, and JavaScript with responsive UI sections.",
           techStack: ["HTML", "CSS", "JavaScript"],
-          githubLink: "#",
+          githubLink: "https://github.com/Prajwal-07-pj/Amazon_Clone",
           liveLink: null,
           status: "Completed"
         },
@@ -37,7 +37,7 @@ const Projects = () => {
           title: "Intern Management System",
           description: "Complete MERN stack project for managing interns, assignments, progress tracking, and admin workflows.",
           techStack: ["MongoDB", "Express.js", "React", "Node.js", "MERN"],
-          githubLink: "#",
+          githubLink: "https://github.com/Prajwal-07-pj/Intern_Managment_System",
           liveLink: null,
           status: "Completed"
         },
@@ -45,7 +45,7 @@ const Projects = () => {
           title: "GTA VI Clone",
           description: "Completed MERN stack clone project inspired by GTA VI with modern UI, routing, and full-stack integration.",
           techStack: ["MongoDB", "Express.js", "React", "Node.js", "MERN"],
-          githubLink: "#",
+          githubLink: "https://github.com/Prajwal-07-pj/GTA_VI",
           liveLink: null,
           status: "Completed"
         },
