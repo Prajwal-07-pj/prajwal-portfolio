@@ -21,7 +21,7 @@ const Hero = () => {
           </h1>
 
           <p className="mb-8 text-[1.03rem] text-white/85">
-            A Professional Web Developer and UI/UX Designer.
+            A Professional Web Developer and Passionate about new technologies.
           </p>
 
           <div className="flex flex-wrap items-center justify-center gap-4 lg:justify-start">
