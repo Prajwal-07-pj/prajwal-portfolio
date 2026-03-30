@@ -17,7 +17,7 @@ const Hero = () => {
           <span className="mb-7 inline-flex items-center rounded-[3px] bg-[#ff5f1f] px-6 py-3 text-[0.95rem] font-medium text-white">Hello, I am</span>
 
           <h1 className="mb-4 text-[clamp(2.2rem,4.5vw,4rem)] font-extrabold leading-[1.08] tracking-[0.2px]">
-            Mr. Prajwal Jadhav
+            Prajwal Jadhav
           </h1>
 
           <p className="mb-8 text-[1.03rem] text-white/85">
