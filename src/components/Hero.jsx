@@ -37,8 +37,8 @@ const Hero = () => {
         </div>
 
         <div className="flex h-full items-center justify-center">
-          <div className="relative aspect-[4/5] w-[min(92%,760px)] overflow-hidden border-l border-t border-white/10 bg-[linear-gradient(160deg,rgba(8,8,8,0.95),rgba(2,2,2,0.96))] max-lg:w-[min(95%,560px)] max-lg:aspect-[4/4.8]">
-            <img src={prajwalImage} alt="Prajwal portrait" className="h-full w-full scale-[0.9] object-cover object-[center_40%] [filter:contrast(1.08)_saturate(0.55)_brightness(0.86)] md:scale-[0.94]"/>
+          <div className="relative aspect-[4/5] w-[min(92%,760px)] border-l border-t border-white/10 bg-[linear-gradient(160deg,rgba(8,8,8,0.95),rgba(2,2,2,0.96))] max-lg:w-[min(95%,560px)] max-lg:aspect-[4/4.8]">
+            <img src={prajwalImage} alt="Prajwal portrait" className="h-full w-full scale-[0.9] object-cover object-[center_35%] [filter:contrast(1.08)_saturate(0.55)_brightness(0.86)_drop-shadow(0_0_10px_rgba(255,255,255,0.14))_drop-shadow(0_10px_20px_rgba(0,0,0,0.32))] md:scale-[0.94]"/>
             <div className="pointer-events-none absolute left-[21%] top-[10%] h-[36%] w-[52%] rotate-[-14deg] border border-white/20" aria-hidden="true"></div>
             <div className="pointer-events-none absolute left-[33%] top-[27%] h-[42%] w-[60%] rotate-[18deg] border border-white/20" aria-hidden="true"></div>
             <div className="pointer-events-none absolute left-[25%] top-[58%] h-[28%] w-[48%] rotate-[-8deg] border border-white/20" aria-hidden="true"></div>
